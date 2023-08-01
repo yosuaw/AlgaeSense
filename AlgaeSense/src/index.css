@@ -1,0 +1,29 @@
+body,
+html {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  font-family: "Rubik" !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h2 {
+  font-family: "Rubik-ExtraBold";
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: local('Rubik'), url(./font/Rubik/Rubik-SemiBold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: 'Rubik-ExtraBold';
+  src: local('Rubik'), url(./font/Rubik/Rubik-ExtraBold.ttf) format("truetype");
+}
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
