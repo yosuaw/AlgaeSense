@@ -1,5 +1,0 @@
-npm install axios
-npm install --save react-dropzone
-npm install --save styled-components
-npm install bootstrap --save 
-npm install react-router-dom --save
